@@ -10,7 +10,7 @@
 
 ​                         
 
-![](../assets/author.png)
+![](../assets/redis/author.png)
 
 ## 
 
